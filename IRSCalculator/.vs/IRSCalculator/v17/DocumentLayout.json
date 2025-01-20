@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|d:\\restart_pessoal\\irscalculator\\irscalculator\\auxmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|solutionrelative:auxmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|d:\\restart_pessoal\\irscalculator\\irscalculator\\irstablestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|solutionrelative:irstablestructure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|d:\\restart_pessoal\\irscalculator\\irscalculator\\fileinfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|solutionrelative:fileinfo.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|d:\\restart_pessoal\\irscalculator\\irscalculator\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|d:\\restart_pessoal\\irscalculator\\irscalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336FA662-FE49-4906-AE2F-E6AAF2E8AFA6}|IRSCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fileInfo.txt",
+              "DocumentMoniker": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\fileInfo.txt",
+              "RelativeDocumentMoniker": "fileInfo.txt",
+              "ToolTip": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\fileInfo.txt",
+              "RelativeToolTip": "fileInfo.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-20T18:16:55.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T18:12:26.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T16:41:36.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuxMethods.cs",
+              "DocumentMoniker": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\AuxMethods.cs",
+              "RelativeDocumentMoniker": "AuxMethods.cs",
+              "ToolTip": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\AuxMethods.cs",
+              "RelativeToolTip": "AuxMethods.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T14:33:57.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRSTableStructure.cs",
+              "DocumentMoniker": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\IRSTableStructure.cs",
+              "RelativeDocumentMoniker": "IRSTableStructure.cs",
+              "ToolTip": "D:\\ReStart_Pessoal\\IRSCalculator\\IRSCalculator\\IRSTableStructure.cs",
+              "RelativeToolTip": "IRSTableStructure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T17:17:29.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
