@@ -16,3 +16,4 @@ D:\ReStart_Pessoal\IRSCalculator\IRSCalculator\obj\Debug\net9.0\refint\IRSCalcul
 D:\ReStart_Pessoal\IRSCalculator\IRSCalculator\obj\Debug\net9.0\IRSCalculator.pdb
 D:\ReStart_Pessoal\IRSCalculator\IRSCalculator\obj\Debug\net9.0\IRSCalculator.genruntimeconfig.cache
 D:\ReStart_Pessoal\IRSCalculator\IRSCalculator\obj\Debug\net9.0\ref\IRSCalculator.dll
+D:\ReStart_Pessoal\IRSCalculator\IRSCalculator\obj\Debug\net9.0\IRSCalculator.sourcelink.json
