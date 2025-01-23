@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IRSCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f891ba4bdac0a1283901e4170d08626089e73196")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d7afaf0bf016fc9f308cc8f982349c0c9ec35be")]
 [assembly: System.Reflection.AssemblyProductAttribute("IRSCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IRSCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

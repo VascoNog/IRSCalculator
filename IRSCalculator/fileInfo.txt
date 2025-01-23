@@ -34,5 +34,5 @@
   {"Ano":2025,"RemMensal":3233.0,"TaxaMarginalMax":38.72,"ParcelaAbater":465.03,"FormCalculo":"na"},
   {"Ano":2025,"RemMensal":5547.0,"TaxaMarginalMax":40.05,"ParcelaAbater":508.03,"FormCalculo":"na"},
   {"Ano":2025,"RemMensal":20221.0,"TaxaMarginalMax":44.95,"ParcelaAbater":779.83,"FormCalculo":"na"},
-  {"Ano":2025,"RemMensal":20221.0,"TaxaMarginalMax":47.17,"ParcelaAbater":1228.74,"FormCalculo":"na"}
+  {"Ano":2025,"RemMensal":20221.0,"TaxaMarginalMax":47.17,"ParcelaAbater":0.0,"FormCalculo":"47.17% / 5.07 * R"}
 ]
